@@ -8,7 +8,9 @@ The project focused on identifying meaningful patterns in the dataset to disting
 
 ## ⚙️ Models Applied
 
-- Logistic Regression  
+- Logistic Regression
+- Naive Bayes
+- LDA 
 - Random Forest  
 - Approximate Median Significance (AMS) for evaluation
 
