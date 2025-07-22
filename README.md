@@ -1,6 +1,6 @@
 # Higgs Boson Signal Classification
 
-** Please note that due to licensing restrictions, I am unable to provide the dataset here**
+*** Please note that due to licensing restrictions, I am unable to provide the dataset here ***
 
 🔍 This project used **machine learning techniques** to classify signal events linked to the Higgs Boson from a large dataset of simulated high-energy physics events.
 
