@@ -43,4 +43,4 @@ The project focused on identifying meaningful patterns in the dataset to disting
 - Measured model success using ROC and AMS metrics  
 - Gained experience linking physics-based objectives with ML techniques  
 - Improved model performance through tuning and validation
-- Derived conclusions on trained models based on performance metrics
+- Derived conclusions on trained models based on relative performance metrics
