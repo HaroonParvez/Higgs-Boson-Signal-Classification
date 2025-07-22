@@ -1,10 +1,10 @@
 # Higgs Boson Signal Classification
 
-*** Please note that due to licensing restrictions, I am unable to provide the dataset here ***
-
 🔍 This project used **machine learning techniques** to classify signal events linked to the Higgs Boson from a large dataset of simulated high-energy physics events.
 
 The project focused on identifying meaningful patterns in the dataset to distinguish between background noise and signal events with a high degree of statistical significance. Please see the report for the indepth explanation of the analysis conducted on the dataset.
+
+*** Please note that due to licensing restrictions, I am unable to provide the dataset here ***
 
 ---
 
