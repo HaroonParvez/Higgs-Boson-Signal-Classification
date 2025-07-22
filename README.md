@@ -43,10 +43,4 @@ The project focused on identifying meaningful patterns in the dataset to disting
 - Measured model success using ROC and AMS metrics  
 - Gained experience linking physics-based objectives with ML techniques  
 - Improved model performance through tuning and validation
-
----
-
-## 📌 Author
-
-**Haroon Parvez**  
-BSc Physics and Data Science – Queen Mary University of London
+- Derived conclusions on trained models based on performance metrics
